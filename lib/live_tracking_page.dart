@@ -147,7 +147,7 @@ class _LiveTrackingPageState extends State<LiveTrackingPage> {
       appBar: AppBar(
         centerTitle: true,
         title: const Text(
-          "Track Order",
+          "Tracking",
           style: TextStyle(color: Colors.black, fontSize: 16),
         ),
       ),
