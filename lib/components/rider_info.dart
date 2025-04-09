@@ -15,13 +15,13 @@ class RiderInfo extends StatelessWidget {
         child: ListTile(
           leading: const CircleAvatar(
             radius: 24,
-            backgroundImage: AssetImage("assets/Avatar.png"),
+            backgroundImage: AssetImage("assets/Avatar.jpg"),
           ),
           title: const Text(
-            "Mike Rojnidoost",
+            "Muhammad Bilal",
             style: TextStyle(fontWeight: FontWeight.w500),
           ),
-          subtitle: const Text("860m - 28min"),
+          subtitle: const Text("10KM - 15min"),
           trailing: ElevatedButton(
             style: ElevatedButton.styleFrom(
               backgroundColor: primaryColor,
